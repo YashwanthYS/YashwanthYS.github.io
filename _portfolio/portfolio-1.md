@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "SEE SCAN"
+excerpt: "An Android Application to scan text from camera photos and gallery photos and the text recognized from photos can be edited as required. SQLLite was used to store edited text and recognized text from photos.<br/><img src='/images/500x300.png'>"
+collection: Projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is an example Android application for OCR. The current version uses [Text Recognition API](https://developers.google.com/ml-kit/vision/text-recognition/v2)
+
+-> Application has the capability to recognise text from photos which are in gallery or from live photo which is clicked. The text from the photo is selected and presented to the users on a clipboard.
+
+-> Users can then, edit the text as per their need or save it directly at the desired location on the phone.
+
+-> They can also edit/access these saved documented as and when required.
+
+-> [Github Link](https://github.com/YashwanthYS/OCR_android_app)
