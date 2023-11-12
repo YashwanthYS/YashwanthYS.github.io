@@ -28,6 +28,7 @@ Interests: Natural Language Processing, Deep Learning, Intelligent Interactive S
     <div class="entry">
       <div class="title">
         <h3>2023 - Present</h3>
+        <img src="images/RV.png" alt="RVCE logo" class="company-icon">
       </div>
       <div class="body">
         <h4>Back at OpenAI</h4>
@@ -38,6 +39,7 @@ Interests: Natural Language Processing, Deep Learning, Intelligent Interactive S
     <div class="entry">
       <div class="title">
         <h3>2017 - 2022</h3>
+        <img src="images/RV.png" alt="RVCE logo" class="company-icon">
       </div>
       <div class="body">
         <h4>Sr. Director of AI at Tesla</h4>
@@ -62,7 +64,7 @@ Interests: Natural Language Processing, Deep Learning, Intelligent Interactive S
   }
   .timeline .entry {
     border-bottom: 1px solid #dddddd;
-    padding: 10px 0px;
+    padding: 20px 0px;
     position: relative;
   }
   .timeline .entry .title {
@@ -70,13 +72,21 @@ Interests: Natural Language Processing, Deep Learning, Intelligent Interactive S
     padding: 0 15px;
     position: absolute;
     text-align: right;
-    top: 10px;
+    top: 0;
     width: 200px;
   }
   .timeline .entry .title h3 {
     margin: 0;
     padding: 0;
     font-size: 16px;
+  }
+  .timeline .entry .title .company-icon {
+    width: 50px; /* Adjust size as needed */
+    height: auto;
+    margin-top: 5px; /* Adjust spacing as needed */
+  }
+  .timeline .entry .body {
+    margin-left: 230px; /* Adjust based on the size of your icons */
   }
   .timeline .entry .body h4 {
     margin: 0;
