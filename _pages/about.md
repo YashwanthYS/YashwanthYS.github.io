@@ -21,3 +21,70 @@ My interests lie at the confluence of Natural Language Processing, Deep Learning
 
 Interests: Natural Language Processing, Deep Learning, Intelligent Interactive Systems, Large Language Models
 
+<section>
+  <h2>Experience</h2>
+
+  <div class="timeline">
+    <div class="entry">
+      <div class="title">
+        <h3>2023 - Present</h3>
+      </div>
+      <div class="body">
+        <h4>Back at OpenAI</h4>
+        <p>I work as a Software Engineer-2 at OpenAI, focusing on...</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="title">
+        <h3>2017 - 2022</h3>
+      </div>
+      <div class="body">
+        <h4>Sr. Director of AI at Tesla</h4>
+        <p>I led the computer vision team of Tesla Autopilot...</p>
+      </div>
+    </div>
+
+    <!-- Repeat the entry block for each experience item -->
+  </div>
+</section>
+
+<style>
+  .timeline {
+    border-left: 3px solid #cccccc;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+    color: #666666;
+    margin: 50px;
+    padding: 4px;
+    position: relative;
+    width: 90%;
+  }
+  .timeline .entry {
+    border-bottom: 1px solid #dddddd;
+    padding: 10px 0px;
+    position: relative;
+  }
+  .timeline .entry .title {
+    left: -217px;
+    padding: 0 15px;
+    position: absolute;
+    text-align: right;
+    top: 10px;
+    width: 200px;
+  }
+  .timeline .entry .title h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+  }
+  .timeline .entry .body h4 {
+    margin: 0;
+    color: #333333;
+  }
+  .timeline .entry .body p {
+    margin: 5px 0 0 0;
+    padding: 0;
+  }
+</style>
+
