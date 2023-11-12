@@ -86,7 +86,7 @@ Interests: Natural Language Processing, Deep Learning, Intelligent Interactive S
     margin-top: 5px; /* Adjust spacing as needed */
   }
   .timeline .entry .body {
-    margin-left: 230px; /* Adjust based on the size of your icons */
+    margin-left: 30px; /* Adjust based on the size of your icons */
   }
   .timeline .entry .body h4 {
     margin: 0;
