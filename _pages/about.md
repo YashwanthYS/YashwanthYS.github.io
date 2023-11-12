@@ -22,7 +22,7 @@ My interests lie at the confluence of Natural Language Processing, Deep Learning
 Interests: Natural Language Processing, Deep Learning, Intelligent Interactive Systems, Large Language Models
 
 <section>
-  <h2>Experience</h2>
+  <h2>Highlights</h2>
 
   <div class="timeline">
     <div class="entry">
@@ -53,7 +53,7 @@ Interests: Natural Language Processing, Deep Learning, Intelligent Interactive S
         <img src="images/samsung.jpeg" alt="samsung logo" class="company-icon">
       </div>
       <div class="body">
-        <h4>Research Intern [May - July]</h4>
+        <h4>Research Intern</h4>
         <p>Worked in Text Intelligence Team [part of Advanced Technology Lab]</p>
       </div>
     </div>
@@ -64,8 +64,8 @@ Interests: Natural Language Processing, Deep Learning, Intelligent Interactive S
         <img src="images/RV.png" alt="rvce logo" class="company-icon">
       </div>
       <div class="body">
-        <h4>Project Intern [May 2019 - June 2020]</h4>
-        <p>Worked on a funded research NLP problem under Dr. Deepalama and Dr. Shobha G</p>
+        <h4>Project Intern</h4>
+        <p>Worked on a funded research problem under Dr. Deepalama & Dr. Shobha G</p>
       </div>
     </div>
 
@@ -86,7 +86,7 @@ Interests: Natural Language Processing, Deep Learning, Intelligent Interactive S
         <img src="images/RV.png" alt="rvce logo" class="company-icon">
       </div>
       <div class="body">
-        <h4>Student</h4>
+        <h4>Undergraduate Studies</h4>
         <p>Major - Computer Science. GPA - 9.26/10.0 <br> Topped 1st, 2nd and 8th semester exams</p>
       </div>
     </div>
