@@ -1,8 +1,10 @@
 ---
 title: "Automatic Helmet Detection & Violation Details Management"
-excerpt: "Application to detect helmet violation from live video footage and also store the details in a database.<br/><img src='/images/500x300.png'>"
+excerpt: "Application to detect helmet violation from live video footage and also store the details in a database.<br/><img src='/images/project3.png'>"
 collection: Projects
 ---
+
+* Was done as part of Database Management course at RVCE (Fall 2019)
 
 * Used YOLOv3 object detection model to detect vehicle drivers without helmets and stores the vehicle number in MySQL database and other driver profile details are stored in MongoDB.
 
