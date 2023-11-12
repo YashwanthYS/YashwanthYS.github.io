@@ -27,23 +27,67 @@ Interests: Natural Language Processing, Deep Learning, Intelligent Interactive S
   <div class="timeline">
     <div class="entry">
       <div class="title">
-        <h3>2023 - Present</h3>
-        <img src="images/RV.png" alt="RVCE logo" class="company-icon">
+        <h3>2021 - Present</h3>
+        <img src="images/citrix.png" alt="citrix logo" class="company-icon">
       </div>
       <div class="body">
-        <h4>Back at OpenAI</h4>
-        <p>I work as a Software Engineer-2 at OpenAI, focusing on...</p>
+        <h4>Software Engineer - 2</h4>
+        <p>Working on Citrix Workspace App for macOS</p>
       </div>
     </div>
 
     <div class="entry">
       <div class="title">
-        <h3>2017 - 2022</h3>
-        <img src="images/RV.png" alt="RVCE logo" class="company-icon">
+        <h3>2021</h3>
+        <img src="images/citrix.png" alt="citrix logo" class="company-icon">
       </div>
       <div class="body">
-        <h4>Sr. Director of AI at Tesla</h4>
-        <p>I led the computer vision team of Tesla Autopilot...</p>
+        <h4>Software Engineering Intern [Jan - June]</h4>
+        <p>Worked on enhancing the Continuous Integration(CI) by parallelising build scripts</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="title">
+        <h3>2020</h3>
+        <img src="images/samsung.jpeg" alt="samsung logo" class="company-icon">
+      </div>
+      <div class="body">
+        <h4>Research Intern [May - July]</h4>
+        <p>Worked in Text Intelligence Team [part of Advanced Technology Lab]</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="title">
+        <h3>2019 - 2020</h3>
+        <img src="images/RV.png" alt="rvce logo" class="company-icon">
+      </div>
+      <div class="body">
+        <h4>Project Intern [May 2019 - June 2020]</h4>
+        <p>Worked on a funded research NLP problem under Dr. Deepalama and Dr. Shobha G</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="title">
+        <h3>2019</h3>
+        <img src="images/samsung.jpeg" alt="rvce logo" class="company-icon">
+      </div>
+      <div class="body">
+        <h4>Research Intern [May - July]</h4>
+        <p>Worked in Interaction Intelligence Team [part of Advanced Technology Lab]</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="title">
+        <h3>2017 - 2021</h3>
+        <img src="images/RV.png" alt="rvce logo" class="company-icon">
+      </div>
+      <div class="body">
+        <h4>Student</h4>
+        <p>Major - Computer Science. GPA - 9.26/10.0 <br> Topped 1st, 2nd and 8th semester exams</p>
       </div>
     </div>
 
