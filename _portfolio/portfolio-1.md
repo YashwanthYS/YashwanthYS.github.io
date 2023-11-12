@@ -1,6 +1,6 @@
 ---
 title: "SEE SCAN"
-excerpt: "An Android Application to scan text from camera photos and gallery photos and the text recognized from photos can be edited as required. SQLLite was used to store edited text and recognized text from photos.<br/><img src='/images/project1.png'>"
+excerpt: "An Android Application to scan text from camera photos and gallery photos and the text recognized from photos can be edited as required. SQLLite was used to store edited text and recognized text from photos.<br/><img src='/images/project1.png' width='300' height='200'>"
 collection: Projects
 ---
 

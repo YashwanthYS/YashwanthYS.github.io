@@ -1,6 +1,6 @@
 ---
 title: "Automatic Helmet Detection & Violation Details Management"
-excerpt: "Application to detect helmet violation from live video footage and also store the details in a database.<br/><img src='/images/project3.png'>"
+excerpt: "Application to detect helmet violation from live video footage and also store the details in a database.<br/><img src='/images/project3.png' width='300' height='200'>"
 collection: Projects
 ---
 

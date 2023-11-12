@@ -1,6 +1,6 @@
 ---
 title: "Automatic Short Answers evaluation"
-excerpt: "1 mark short question and answers evaluation system using ensemble model<br/><img src='/images/project2.png'>"
+excerpt: "1 mark short question and answers evaluation system using ensemble model<br/><img src='/images/project2.png' width='300' height='200'>"
 collection: Projects
 ---
 
