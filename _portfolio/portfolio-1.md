@@ -6,10 +6,10 @@ collection: Projects
 
 This is an example Android application for OCR. The current version uses [Text Recognition API](https://developers.google.com/ml-kit/vision/text-recognition/v2)
 
--> Application has the capability to recognise text from photos which are in gallery or from live photo which is clicked. The text from the photo is selected and presented to the users on a clipboard.
+* Application has the capability to recognise text from photos which are in gallery or from live photo which is clicked. The text from the photo is selected and presented to the users on a clipboard.
 
--> Users can then, edit the text as per their need or save it directly at the desired location on the phone.
+* Users can then, edit the text as per their need or save it directly at the desired location on the phone.
 
--> They can also edit/access these saved documented as and when required.
+* They can also edit/access these saved documented as and when required.
 
--> [Github Link](https://github.com/YashwanthYS/OCR_android_app)
+* [Github Link](https://github.com/YashwanthYS/OCR_android_app)

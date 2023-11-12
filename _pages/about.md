@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Motivation](images/quote2.png){: .align-right width="300px"}
+![Motivation](images/quote3.png){: .align-right width="300px"}
 Welcome! I work as a Software Engineer-2:typingcat-2308: at [Citrix R&D](https://www.citrix.com/about/), a pivotal part of the [Cloud Software Group](https://www.cloud.com/), where I enhance the [Citrix Workspace App](https://docs.citrix.com/en-us/citrix-workspace-app-for-mac.html), streamlining remote work by enabling seamless access to virtual apps and desktops. My expertise in multithreading, concurrency, and virtualization plays a crucial role in advancing our application. Beyond the development, I delve into analytics, employing machine learning algorithms to decode customer behavior. This critical analysis informs the leadership about feature engagement and guides strategic decisions, ensuring our solutions are not only innovative but also resonant with user needs.
 
 My journey in tech has been deeply influenced by my tenure at [Samsung Research](https://research.samsung.com/sri-b) as research intern for couple of summers, where I delved into Natural Language Processing (NLP). My initial foray into NLP was with the Interaction Intelligence Team:brain-intensifies:, personalizing Bixby:robot_face: by harnessing insights from user interactions. I further refined my skills by developing a novel on-device Hinglish detection classifier and a multilingual classifier to recognize code-switching in chats :typing: to trigger smart reply solution for a particular language, marking my first steps towards intelligent systems.

@@ -4,6 +4,8 @@ excerpt: "Application to detect helmet violation from live video footage and als
 collection: Projects
 ---
 
-• Used YOLOv3 object detection model to detect vehicle drivers without helmets and stores the vehicle number in MySQL database and other driver profile details are stored in MongoDB.
-• The model was tested using a real live feed from my college entrance camera and obtained an accuracy of 76%.
-• [GitHub Link](https://github.com/YashwanthYS/yolo_helmet_detection)
+* Used YOLOv3 object detection model to detect vehicle drivers without helmets and stores the vehicle number in MySQL database and other driver profile details are stored in MongoDB.
+
+* The model was tested using a real live feed from my college entrance camera and obtained an accuracy of 76%.
+
+* [GitHub Link](https://github.com/YashwanthYS/yolo_helmet_detection)
