@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div class="website-logo">
-  <img src="images/your_website_logo.png" alt="Website Logo">
-</div>
-
 ![Motivation](images/quote3.png){: .align-right width="300px"}
 Welcome! I work as a Software Engineer-2 &#x1F4BB; at [Citrix R&D](https://www.citrix.com/about/), a pivotal part of the [Cloud Software Group](https://www.cloud.com/), where I enhance the [Citrix Workspace App](https://docs.citrix.com/en-us/citrix-workspace-app-for-mac.html), streamlining remote work by enabling seamless access to virtual apps and desktops. My expertise in multithreading, concurrency, and virtualization plays a crucial role in advancing our application. Beyond the development, I delve into analytics, employing machine learning algorithms to decode customer behavior. This critical analysis informs the leadership about feature engagement and guides strategic decisions, ensuring our solutions are not only innovative but also resonant with user needs.
 
