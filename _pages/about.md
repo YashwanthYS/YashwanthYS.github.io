@@ -42,7 +42,7 @@ Interests: Natural Language Processing, Deep Learning, Intelligent Interactive S
         <img src="images/citrix.png" alt="citrix logo" class="company-icon">
       </div>
       <div class="body">
-        <h4>Software Engineering Intern [Jan - June]</h4>
+        <h4>Software Engineering Intern</h4>
         <p>Worked on enhancing the Continuous Integration(CI) by parallelising build scripts</p>
       </div>
     </div>
@@ -75,7 +75,7 @@ Interests: Natural Language Processing, Deep Learning, Intelligent Interactive S
         <img src="images/samsung.jpeg" alt="rvce logo" class="company-icon">
       </div>
       <div class="body">
-        <h4>Research Intern [May - July]</h4>
+        <h4>Research Intern</h4>
         <p>Worked in Interaction Intelligence Team [part of Advanced Technology Lab]</p>
       </div>
     </div>
